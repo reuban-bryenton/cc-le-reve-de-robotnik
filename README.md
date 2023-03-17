@@ -3,7 +3,16 @@
 ## 📥 Installation Python et ses outils:
 
 <details>
-    <summary>🪟 Windows 10/11</summary><blockquote>
+    <summary>🪟 Windows 10/11 (Microsoft Store)</summary><blockquote>
+        1. Installez Python à partir du Microsoft Store :
+        Ouvrez le Microsoft Store et recherchez "Python". Cliquez sur "Obtenir" pour télécharger et installer Python.
+        </blockquote></br><blockquote>
+        2. Une fois l'installation terminée, ouvrez une invite de commande (CMD) et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
+        </blockquote>
+</details>
+
+<details>
+    <summary>🪟 Windows 10/11 (Téléchargement Direct)</summary><blockquote>
         1. Téléchargez l'installateur Python à partir du site officiel : 
         <a href="https://www.python.org/downloads/windows/">https://www.python.org/downloads/windows</a>
         </blockquote></br><blockquote>
