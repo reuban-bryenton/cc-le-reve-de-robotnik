@@ -3,86 +3,93 @@
 ## 📥 Installation Python et ses outils:
 
 <details>
-    <summary>🪟 Windows 10/11 (Microsoft Store)</summary><blockquote>
-        1. Installez Python à partir du Microsoft Store :
-        Ouvrez le Microsoft Store et recherchez "Python". Cliquez sur "Obtenir" pour télécharger et installer Python.
-        </blockquote></br><blockquote>
-        2. Une fois l'installation terminée, ouvrez une invite de commande (CMD) et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
-        </blockquote>
+    <summary>🪟 Windows 10/11 (Microsoft Store)</summary>
+
+1. Installez Python à partir du Microsoft Store :
+    - Ouvrez le Microsoft Store et recherchez "Python".
+    - Cliquez sur "Obtenir" pour télécharger et installer Python.
+</br>
+2. Une fois l'installation terminée, ouvrez une invite de commande (CMD) et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
 </details>
 
 <details>
-    <summary>🪟 Windows 10/11 (Téléchargement Direct)</summary><blockquote>
-        1. Téléchargez l'installateur Python à partir du site officiel : 
-        <a href="https://www.python.org/downloads/windows/">https://www.python.org/downloads/windows</a>
-        </blockquote></br><blockquote>
+    <summary>🪟 Windows 10/11 (Téléchargement Direct)</summary>
+
+1. Téléchargez l'installateur Python à partir du site officiel : 
+<a href="https://www.python.org/downloads/windows/">https://www.python.org/downloads/windows</a>
+        </br>
         2. Cliquez sur le bouton "Download Python X.X.X" pour télécharger le programme d'installation.
-        </blockquote></br><blockquote>
+        </br>
         3. Exécutez le programme d'installation et suivez les instructions à l'écran.
-        </blockquote></br><blockquote>
+        </br>
         4. Cochez la case "Add Python X.X to PATH" pour ajouter Python à la variable d'environnement PATH de Windows.
-        </blockquote></br><blockquote>
+        </br>
         5. Sélectionnez "Install Now" pour installer Python.
-        </blockquote></br><blockquote>
+        </br>
         6. Une fois l'installation terminée, ouvrez une invite de commande (CMD) et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
-</blockquote></details>
+</details>
 
 <details>
-    <summary>🍎 Macos</summary><blockquote>
-    1. Ouvrez un navigateur Web et accédez à la page de téléchargement de Python : <a href="https://www.python.org/downloads/mac-osx/">https://www.python.org/downloads/mac-osx/</a>
-    </blockquote></br><blockquote>
-    2. Téléchargez l'installateur de la dernière version stable de Python.
-    </blockquote></br><blockquote>
-    3. Ouvrez le fichier téléchargé et double-cliquez sur l'icône du package d'installation Python.
-    </blockquote></br><blockquote>
-    4. Suivez les instructions à l'écran pour installer Python.
-    </blockquote></br><blockquote>
-    5. Une fois l'installation terminée, ouvrez un terminal et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
-</blockquote></details>
+    <summary>🍎 Macos</summary>
+
+1. Ouvrez un navigateur Web et accédez à la page de téléchargement de Python : <a href="https://www.python.org/downloads/mac-osx/">https://www.python.org/downloads/mac-osx/</a>
+</br>
+2. Téléchargez l'installateur de la dernière version stable de Python.
+</br>
+3. Ouvrez le fichier téléchargé et double-cliquez sur l'icône du package d'installation Python.
+</br>
+4. Suivez les instructions à l'écran pour installer Python.
+</br>
+5. Une fois l'installation terminée, ouvrez un terminal et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
+</details>
 
 <details>
-    <summary>🐧 ****Linux (Ubuntu)****</summary><blockquote>
-    1. Ouvrez un terminal.
-    </blockquote></br><blockquote>
-    2. Mettez à jour les dépôts et les paquets système en tapant les commandes suivantes :
-    </br>
-    <code>
-        sudo apt-get update
-        sudo apt-get upgrade
-    </code>
-    </blockquote></br><blockquote>
-    3. Installez Python en tapant la commande suivante :
-    </br>
-    <code>
-        sudo apt-get update
-        sudo apt-get upgrade
-    </code>
-    </blockquote></br><blockquote>
-    4. Une fois l'installation terminée, tapez "python3" pour vérifier que Python est installé et fonctionne correctement.
-</blockquote></details>
+    <summary>🐧 Linux (Ubuntu)</summary>
+
+1. Ouvrez un terminal.
+
+2. Mettez à jour les dépôts et les paquets système en tapant les commandes suivantes :
+
+```bash
+sudo apt-get update
+sudo apt-get upgrade
+```
+
+3. Installez Python en tapant la commande suivante :
+
+```bash
+sudo apt-get install python3
+```
+
+4. Une fois l'installation terminée, tapez "python3" pour vérifier que Python est installé et fonctionne correctement.
+</details>
 </br>
 <details>
-    <summary>Installation des outils Python</summary><blockquote>
-    PIP est deja installé sur windows et macos, donc si vous n’êtes pas sur linux vous pouvez passer à l’instalation PyGame.
-    </blockquote>
-    </br>
-    <details>
-        <summary>Installation PIP (Pas macos ou windows 10/11)</summary><blockquote>
-        Pour installer les outils Python, vous pouvez utiliser le gestionnaire de paquets pip. Pip est inclus dans Python 2.7.9+ et Python 3.4+. Si pip n'est pas installé, vous pouvez l'installer en utilisant la commande suivante :
-        </br>
-        <code>
-            sudo apt-get install python3-pip
-        </code>
-    </blockquote></details>
-    <details>
-        <summary>Installation PyGame</summary><blockquote>
-        Pour installer le module PyGame, utilisez la commande suivante:
-        </br>
-        <code>
-        pip install pygame
-        </code>
-    </blockquote></details>
-</blockquote></details>
+    <summary>Installation des outils Python</summary>
+
+PIP est deja installé sur windows et macos, donc si vous n’êtes pas sur linux vous pouvez passer à l’instalation PyGame.
+
+<details>
+    <summary>Installation PIP (Pas macos ou windows 10/11)</summary>
+
+Pour installer les outils Python, vous pouvez utiliser le gestionnaire de paquets pip. Pip est inclus dans Python 2.7.9+ et Python 3.4+. Si pip n'est pas installé, vous pouvez l'installer en utilisant la commande suivante :
+
+```bash
+sudo apt-get install python3-pip
+```
+</details>
+
+<details>
+    <summary>Installation PyGame</summary>
+
+Pour installer le module PyGame, utilisez la commande suivante:
+
+```bash
+pip install pygame
+```
+</code>
+</details>
+</details>
 
 </br>
 
