@@ -7,39 +7,28 @@
 
 1. Installez Python à partir du Microsoft Store :
     - Ouvrez le Microsoft Store et recherchez "Python".
-    - Cliquez sur "Obtenir" pour télécharger et installer Python.
-</br>
+    - Cliquez sur "Obtenir" pour télécharger et installer Python.</br>
 2. Une fois l'installation terminée, ouvrez une invite de commande (CMD) et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
 </details>
 
 <details>
     <summary>🪟 Windows 10/11 (Téléchargement Direct)</summary>
 
-1. Téléchargez l'installateur Python à partir du site officiel : 
-<a href="https://www.python.org/downloads/windows/">https://www.python.org/downloads/windows</a>
-        </br>
-        2. Cliquez sur le bouton "Download Python X.X.X" pour télécharger le programme d'installation.
-        </br>
-        3. Exécutez le programme d'installation et suivez les instructions à l'écran.
-        </br>
-        4. Cochez la case "Add Python X.X to PATH" pour ajouter Python à la variable d'environnement PATH de Windows.
-        </br>
-        5. Sélectionnez "Install Now" pour installer Python.
-        </br>
-        6. Une fois l'installation terminée, ouvrez une invite de commande (CMD) et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
+1. Téléchargez l'installateur Python à partir du site officiel : <a href="https://www.python.org/downloads/windows/">https://www.python.org/downloads/windows</a></br>
+2. Cliquez sur le bouton "Download Python X.X.X" pour télécharger le programme d'installation.</br>
+3. Exécutez le programme d'installation et suivez les instructions à l'écran.</br>
+4. Cochez la case "Add Python X.X to PATH" pour ajouter Python à la variable d'environnement PATH de Windows.</br>
+5. Sélectionnez "Install Now" pour installer Python.</br>
+6. Une fois l'installation terminée, ouvrez une invite de commande (CMD) et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
 </details>
 
 <details>
     <summary>🍎 Macos</summary>
 
-1. Ouvrez un navigateur Web et accédez à la page de téléchargement de Python : <a href="https://www.python.org/downloads/mac-osx/">https://www.python.org/downloads/mac-osx/</a>
-</br>
-2. Téléchargez l'installateur de la dernière version stable de Python.
-</br>
-3. Ouvrez le fichier téléchargé et double-cliquez sur l'icône du package d'installation Python.
-</br>
-4. Suivez les instructions à l'écran pour installer Python.
-</br>
+1. Ouvrez un navigateur Web et accédez à la page de téléchargement de Python : <a href="https://www.python.org/downloads/mac-osx/">https://www.python.org/downloads/mac-osx/</a></br>
+2. Téléchargez l'installateur de la dernière version stable de Python.</br>
+3. Ouvrez le fichier téléchargé et double-cliquez sur l'icône du package d'installation Python.</br>
+4. Suivez les instructions à l'écran pour installer Python.</br>
 5. Une fois l'installation terminée, ouvrez un terminal et tapez "python" pour vérifier que Python est installé et fonctionne correctement.
 </details>
 
@@ -87,7 +76,6 @@ Pour installer le module PyGame, utilisez la commande suivante:
 ```bash
 pip install pygame
 ```
-</code>
 </details>
 </details>
 
